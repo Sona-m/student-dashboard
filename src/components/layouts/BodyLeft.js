@@ -62,7 +62,8 @@ const BodyLeft = () => {
   justifyContent="space-between"
   alignItems="center"
   >
-      
+    
+       
       <CardMedia
         component="img"
         style={{width: "35px",marginLeft: "10px"}}
